@@ -200,6 +200,7 @@
       * [Add custom field in the storefront](guides/plugins/plugins/storefront/using-custom-fields-storefront.md)
       * [Add custom sorting for product listing](guides/plugins/plugins/storefront/add-custom-sorting-product-listing.md)
       * [Add SCSS variables](guides/plugins/plugins/storefront/add-scss-variables.md)
+      * [Using the datepicker plugin](guides/plugins/plugins/storefront/using-the-datepicker-plugin.md)
     * [Testing](guides/plugins/plugins/testing/README.md)
       * [End-to-end testing](guides/plugins/plugins/testing/end-to-end-testing.md)
       * [Jest unit tests in Shopware's administration](guides/plugins/plugins/testing/jest-admin.md)
